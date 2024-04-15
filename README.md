@@ -32,7 +32,3 @@ The backtracking algorithm, implemented in `backtracking_algorithm.py`, explores
 2. Neither A* nor the backtracking algorithm accounts for the presence of a shield.
 3. Neither A* nor the backtracking algorithm manage choosing a variant of the perception zone. This choice doesn't affect gameplay.
 4. In the backtracking algorithm, the program first fully explores the map, communicating with the interactor, before finding the shortest path.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
